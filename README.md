@@ -1,4 +1,7 @@
-# myna-safety-frontend
+🏅 2023年/マイナポータルハッカソン 一般審査委員特別賞 受賞
+- [参考](https://www.digital.go.jp/policies/myna_portal/hackathon/)
+
+# Myna Safety
 
 - [マイナセーフティ Web画面](https://myna-safety-388707.web.app/)
 
